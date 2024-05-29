@@ -5,10 +5,10 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 Emeraldgriffin15 | 🔥 7 | ⚡ 5473 |
+| 👤 Emeraldgriffin15 | 🔥 8 | ⚡ 5498 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| 🇩🇪 German | 👑 0 | ⚡ 5473 |
+| 🇩🇪 German | 👑 0 | ⚡ 5498 |
 
 <!--END_SECTION:duolingoStats-->
