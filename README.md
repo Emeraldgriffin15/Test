@@ -5,7 +5,7 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 Emeraldgriffin15 | 🔥 16 | ⚡ 5733 |
+| 👤 Emeraldgriffin15 | 🔥 0 | ⚡ 5733 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
